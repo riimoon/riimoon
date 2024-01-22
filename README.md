@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps.**
 
-- 👀 I’m interested in technology and gaming.**
+- 👀 I’m interested in **technology and gaming.**
 
 
 <p align="left">
