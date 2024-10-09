@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riimoon&label=Profile%20views&color=0e75b6&style=flat" alt="riimoon" /> </p>
 
-- 🌱 I’m currently learning **Terraform and Jenkins.**
 
 - 👯 I’m looking to collaborate on **DevOps.**
 
