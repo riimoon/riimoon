@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Aru</h1>
-<h3 align="center">A passionate DevOps engineer from Kazakhstan</h3>
+<h3 align="center">A passionate Cloud & DevOps engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:gif/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riimoon&label=Profile%20views&color=0e75b6&style=flat" alt="riimoon" /> </p>
