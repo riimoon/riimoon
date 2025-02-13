@@ -9,22 +9,44 @@
 - 💡 I’m interested in **technology, gaming, volleyball, and skiing.**
 - 🌟 I have experience with **AWS, Terraform, Ansible, Jenkins, Linux, Bash, Python, Active Directory, Docker, centralized logging, and CI/CD pipelines.**
 - 💡 I enjoy **writing technical articles** and contributing to my company's Medium page.
+- 📝 Check out my articles on [Medium](https://medium.com/@riimoon).
+- 🎓 Certifications:
+  - Docker Certified Associate (DCA)
+
+<h3 align="left">Certificates:</h3>
+<ul>
+  <li>LPI - Linux Essentials</li>
+  <li>PCEP - Python Programmer</li>
+  <li>AWS - Cloud Practitioner</li>
+  <li>AWS - Solutions Architect</li>
+  <li>AWS - SysOps Admin</li>
+  <li>Terraform Associate</li>
+  <li>Certified Jenkins Engineer</li>
+  <li>Docker Certified Associate</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">AWS, DigitalOcean, Python, Terraform, Jenkins, Docker, Ansible, Linux, Bash, GitHub, Bitbucket, Jira, Confluence, MySQL, Canva, Notion</p>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
+  <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="notion" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riimoon&show_icons=true&locale=en&layout=compact" alt="riimoon" /></p>
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aruzhan-abduvali-2567552ba/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riimoon&show_icons=true&locale=en&layout=compact" alt="riimoon" /></p>
 
 
 
