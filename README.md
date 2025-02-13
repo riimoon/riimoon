@@ -24,8 +24,7 @@
   <li>Docker Certified Associate</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">AWS, DigitalOcean, Python, Terraform, Jenkins, Docker, Ansible, Linux, Bash, GitHub, Bitbucket, Jira, Confluence, MySQL, Canva, Notion</p>
+
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/> </a>
