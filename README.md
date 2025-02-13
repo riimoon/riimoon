@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps projects.**
 - 💡 I’m interested in **technology, gaming, volleyball, and skiing.**
-- 🌟 I have experience with **AWS, Terraform, Ansible, Jenkins, Linux, Bash, Python, Active Directory, Docker, Helm, centralized logging, and CI/CD pipelines.**
+- 🌟 I have experience with **AWS, Terraform, Ansible, Jenkins, Linux, Bash, Python, Active Directory, Docker, centralized logging, and CI/CD pipelines.**
 - 💡 I enjoy **writing technical articles** and contributing to my company's Medium page.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,6 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riimoon&show_icons=true&locale=en&layout=compact" alt="riimoon" /></p>
