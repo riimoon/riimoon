@@ -10,6 +10,7 @@
 - 🌟 I have experience with **AWS, Terraform, Ansible, Jenkins, Linux, Bash, Python, Active Directory, Docker, centralized logging, and CI/CD pipelines.**
 - 💡 I enjoy **writing technical articles** and contributing to my company's Medium page.
 - 📝 Check out my articles on [Medium](https://medium.com/@riimoon).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aruzhan-abduvali-2567552ba/)
 
 <h3 align="left">Certificates:</h3>
 <ul>
@@ -41,7 +42,6 @@
   <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aruzhan-abduvali-2567552ba/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riimoon&show_icons=true&locale=en&layout=compact" alt="riimoon" /></p>
 
