@@ -39,7 +39,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
-  <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" alt="notion" width="40" height="40"/> </a>
+  <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Notion_logo_2021.svg" alt="notion" width="40" height="40"/> </a>
 </p>
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aruzhan-abduvali-2567552ba/)
