@@ -10,8 +10,6 @@
 - 🌟 I have experience with **AWS, Terraform, Ansible, Jenkins, Linux, Bash, Python, Active Directory, Docker, centralized logging, and CI/CD pipelines.**
 - 💡 I enjoy **writing technical articles** and contributing to my company's Medium page.
 - 📝 Check out my articles on [Medium](https://medium.com/@riimoon).
-- 🎓 Certifications:
-  - Docker Certified Associate (DCA)
 
 <h3 align="left">Certificates:</h3>
 <ul>
