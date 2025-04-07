@@ -22,6 +22,7 @@
   <li>Terraform Associate</li>
   <li>Certified Jenkins Engineer</li>
   <li>Docker Certified Associate</li>
+  <li>Linux Security Essentials</li>
 </ul>
 
 
